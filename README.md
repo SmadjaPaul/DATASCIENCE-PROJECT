@@ -6,11 +6,11 @@ Hi! Here is all my work at [Openclassrooms](https://openclassrooms.com/fr/). Mos
 
 # Projects
 
-| Projects | Branch | description | Difficulty | language | 
+| Projects | Subject | Description | Difficulty | Language | 
 |--|--|--|--|--|
-| [P2](https://github.com/SmadjaPaul/DATASCIENCE-PROJECT/tree/master/OPC_P2) | Base | C standard library | Easy | Python | 
-| [P3](https://github.com/SmadjaPaul/DATASCIENCE-PROJECT/tree/master/OPC_P3) | Base |Backtracking to solve a tetris game | Easy | Python | 
-| [P4](https://github.com/SmadjaPaul/DATASCIENCE-PROJECT/tree/master/OPC_P4) | Base | Display a line in function of fd | Medium | Python | 
+| [P2-Education](https://github.com/SmadjaPaul/DATASCIENCE-PROJECT/tree/master/OPC_P2) | [Subject](https://openclassrooms.com/fr/projects/627/assignment) | Analysez des données de systèmes éducatifs | Easy | Python | 
+| [P3-Santé publique](https://github.com/SmadjaPaul/DATASCIENCE-PROJECT/tree/master/OPC_P3)  | [Subject](https://openclassrooms.com/fr/projects/628/assignment) |Concevez une application au service de la santé publique | Easy | Python | 
+| [P4-Seatle](https://github.com/SmadjaPaul/DATASCIENCE-PROJECT/tree/master/OPC_P4)  | [Subject](https://openclassrooms.com/fr/projects/629/assignment)| Anticipez les besoins en consommation électrique de bâtiments | Medium | Python | 
 |--|--|--|--|--|--|
 
 ## Tests
