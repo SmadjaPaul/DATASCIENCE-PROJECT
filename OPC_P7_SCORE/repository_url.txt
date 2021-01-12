@@ -1,0 +1,3 @@
+Notebook: https://github.com/SmadjaPaul/DATASCIENCE-PROJECT/tree/master/OPC_P7_SCORE
+Dashboard: https://github.com/SmadjaPaul/Projet7_Dashboard
+API: https://github.com/SmadjaPaul/Projet7_API

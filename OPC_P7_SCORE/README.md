@@ -21,10 +21,10 @@ The Dashboard python file, can be found in the public repo : https://github.com/
 or download and rune from your folder : streamlit run local_app.py launched at localhost - working with remote inputs.
 
 ## Notebooks
-There are 5 different notebooks:
+There are 7 different notebooks:
 
-P7_EDA: focusing on Exploratory Data Analysis,
-P7_FE: focusing on Feature engineering,
-P7_FS: the feature selection,
-P7_Model: focusing on scoring with model evaluation,
-P7_Interpretation : focusing on model interpretation ! also provide any attempt in order to properly design dashboard
+Projet7_EDA: focusing on Exploratory Data Analysis,
+Projet7_FE: focusing on Feature engineering,
+Projet7_FS: the feature selection,
+Projet7_Model: focusing on scoring with model evaluation,
+Projet7_Interpretation : focusing on model interpretation ! also provide any attempt in order to properly design dashboard
