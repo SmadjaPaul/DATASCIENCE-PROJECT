@@ -1,20 +1,20 @@
-# Projet6-Openclassrooms
+# Projet8-Openclassrooms
 Parcours Data Science
 
-Projet n°6: "Classifiez automatiquement des biens de consommation"
+Projet n°8 : "Déployez un modèle dans le cloud"
 
 ## Description du projet
-* Manipulation de données textuelles, applications des techniques de NLP pour prétraitement des données textuelles : stopwords, lemmatisation / stemming, TF IDF / bag of words
-* Réduction de dimension par LDA / NMF
+* Mise en place d'une infrastructure de prétraitement de données dans le cloud, en vue d'une augmentation du volume des données
+* Configuration d'une instance Dataproc
+* Réalisation de scripts pyspark et exécution dans le cloud
+* Lecture et enregistrement de données sur GCS
 * Prétraitement d'images et Extraction de features (SIFT/SURF/ORB)
-* Classification non supervisée
-* Construction d'un réseau de neurone
-* Transfer learning sur modèle imagenet
-* Mise en place d'une application de visualition dynamique
+
+Source des données : https://www.kaggle.com/moltean/fruits
+
 
 ## Compétences évaluées
-* Prétraiter des données texte pour obtenir un jeu de données exploitable
-* Prétraiter des données image pour obtenir un jeu de données exploitable
-* Mettre en œuvre des techniques de réduction de dimension
-* Représenter graphiquement des données à grandes dimensions
-* Collecter des données répondant à des critères définis via une API
+* Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data
+* Paralléliser des opérations de calcul avec Pyspark
+* Identifier les outils du cloud permettant de mettre en place un environnement Big Data
+
